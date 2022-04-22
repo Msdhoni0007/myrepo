@@ -1,0 +1,2 @@
+void mul(a,b)
+{print(a*b)}
